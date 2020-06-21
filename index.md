@@ -7,3 +7,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * gitlab
 * text editor
 
+Steve Jobs said:
+
+>Have the courage to follow your heart and intutition. They somehow know what you truly want to become.
