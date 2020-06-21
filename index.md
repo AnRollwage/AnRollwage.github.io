@@ -13,4 +13,4 @@ Steve Jobs said:
 
 Credits: Photo by AB @applefanboy on unsplash.com
 
-<image src="https://images.unsplash.com/photo-1569769107543-e0f61bab8e02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"/>
+<img src="https://images.unsplash.com/photo-1569769107543-e0f61bab8e02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"/>
